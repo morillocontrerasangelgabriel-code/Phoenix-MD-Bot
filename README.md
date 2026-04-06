@@ -89,5 +89,5 @@ Need help or want to stay updated with the latest features? Join our community!
 
 <div align="center">
   <br>
-  <b>Star ⭐ this repository to show your support!</b>
+  <b>Star ⭐ this repository for more amazing features!</b>
 </div>
