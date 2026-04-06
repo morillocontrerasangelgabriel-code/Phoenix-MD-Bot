@@ -97,6 +97,4 @@ services:
         value: false
         required: false
 
-      - key: AUTO_REACT
-        value: false
-        required: false
+
